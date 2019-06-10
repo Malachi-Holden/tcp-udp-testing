@@ -19,7 +19,7 @@ The program has two files: server.py and client.py, to be run on the server and 
 
 To test whether message size affects the travel time, a series of tests can be run, sending messages of various sizes. This can be done using a for-loop and sending messages of size i, where i ranges according to the for-loop.
 
-See the testing.docx file for the results of my research.
+See the testing.txt file for the results of my research.
 
 
 
