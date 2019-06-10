@@ -1,0 +1,5 @@
+As the attached UDPresults_XPS.txt file shows, the average transmission speed for UDP from the XPS to the Lattitude was around 0.1 seconds. This was over the Berea wifi.
+
+Similarly for TCPresults_XPS.txt, the average transmission speed for TCP from the XPS to the Lattitude was around 0.05 seconds, twice as fast as UDP.
+
+What does this imply?
